@@ -1,4 +1,5 @@
 # Made by Dhruv Sharma
+Run scanner first, then run parser.
 
 Using following tokens:
 	String: "<STR, {self.value}>"
