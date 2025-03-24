@@ -1,0 +1,14 @@
+list
+   [
+   value
+      NUMBER: 3.
+   ,
+   value
+      NUMBER: .3
+   ,
+   value
+      NUMBER: 3
+   ,
+   value
+      NUMBER: 3.0
+   ]

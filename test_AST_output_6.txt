@@ -1,0 +1,14 @@
+list
+   [
+   value
+      STRING: "true"
+   ,
+   value
+      STRING: "false"
+   ,
+   value
+      STRING: "True"
+   ,
+   value
+      STRING: "False"
+   ]

@@ -1,0 +1,17 @@
+<{>
+<true>
+<:>
+<STR, "True">
+<,>
+<STR, "True">
+<:>
+<STR, "true">
+<,>
+<STR, "false">
+<:>
+<STR, "False">
+<,>
+<STR, "False">
+<:>
+<STR, "false">
+<}>

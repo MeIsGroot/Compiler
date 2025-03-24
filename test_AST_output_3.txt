@@ -1,0 +1,20 @@
+dict
+   {
+   pair
+      STRING: "0123"
+      :
+      value
+         NUMBER: +123
+   ,
+   pair
+      STRING: "01234"
+      :
+      value
+         NUMBER: 0123
+   ,
+   pair
+      STRING: "Valid"
+      :
+      value
+         NUMBER: 123.324e+10
+   }

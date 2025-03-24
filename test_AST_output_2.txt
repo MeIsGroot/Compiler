@@ -1,0 +1,14 @@
+dict
+   {
+   pair
+      STRING: ""
+      :
+      value
+         NUMBER: 123
+   ,
+   pair
+      STRING: "Valid"
+      :
+      value
+         NUMBER: 123
+   }

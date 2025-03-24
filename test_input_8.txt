@@ -1,0 +1,19 @@
+<[>
+<STR, ABC>
+<,>
+<STR, DEF>
+<,>
+<STR, GHI>
+<,>
+<STR, JKL>
+<,>
+<STR, MNO>
+<,>
+<STR, PQR>
+<,>
+<STR, STU>
+<,>
+<STR, VWX>
+<,>
+<STR, YZ>
+<]>

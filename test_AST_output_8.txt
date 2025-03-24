@@ -1,0 +1,29 @@
+list
+   [
+   value
+      STRING: ABC
+   ,
+   value
+      STRING: DEF
+   ,
+   value
+      STRING: GHI
+   ,
+   value
+      STRING: JKL
+   ,
+   value
+      STRING: MNO
+   ,
+   value
+      STRING: PQR
+   ,
+   value
+      STRING: STU
+   ,
+   value
+      STRING: VWX
+   ,
+   value
+      STRING: YZ
+   ]

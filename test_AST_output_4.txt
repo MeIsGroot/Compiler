@@ -1,0 +1,26 @@
+dict
+   {
+   pair
+      STRING: None
+      :
+      value
+         STRING: "True"
+   ,
+   pair
+      STRING: "True"
+      :
+      value
+         STRING: "true"
+   ,
+   pair
+      STRING: "false"
+      :
+      value
+         STRING: "False"
+   ,
+   pair
+      STRING: "False"
+      :
+      value
+         STRING: "false"
+   }

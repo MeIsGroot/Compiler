@@ -1,0 +1,11 @@
+list
+   [
+   value
+      STRING: String
+   ,
+   value
+      NUMBER: 1023.0
+   ,
+   value
+      STRING: two
+   ]
