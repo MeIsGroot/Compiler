@@ -1,2 +1,0 @@
-Level C Semantic Error: Type 1 at <NUM, 3.>: Invalid Decimal Numbers
-Level C Semantic Error: Type 1 at <NUM, .3>: Invalid Decimal Numbers

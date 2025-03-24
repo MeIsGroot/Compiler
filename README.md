@@ -1,6 +1,18 @@
-Second submission for final project part 3, submit to this repo your part 3 ONLY.
-Test your project and make sure it runs smoothly on timberlea.
-Due data is Dec 17 by end of day, repo will close afterwards.
-Make sure to follow the file structure and project requirements here:
-https://dal.brightspace.com/d2l/le/content/339151/viewContent/4611689/View
-Modify this README.md, or create a separate readme file.
+# Made by Dhruv Sharma
+
+Using following tokens:
+	String: "<STR, {self.value}>"
+	Numbers (Both integer and decimal): "<INT, {self.value}>"
+	LBRACE: "<{>"
+	RBRACE: "<}>"
+	LBRACKET: "<[>"
+	RBRACKET: "<]>"
+	COMMA: "<,>"
+	COLON: "<:>"
+	TRUE: "<true>"
+	FALSE: "<false>"
+	NULL: "<NULL>"
+	EOF: "<EOF>"
+
+The code also error detect semantic errors. The code prints out the errors and the AST into test_input_X_errors.txt and test_AST_output_X.txt respectively where
+X matches test_input_X.txt

@@ -1,2 +1,0 @@
-Level A Semantic Error: Type 7 at <STR, "true">: Reserved Words as Strings
-Level A Semantic Error: Type 7 at <STR, "false">: Reserved Words as Strings
