@@ -1,9 +1,0 @@
-<[>
-<STR, "true">
-<,>
-<STR, "false">
-<,>
-<STR, "True">
-<,>
-<STR, "False">
-<]>

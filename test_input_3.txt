@@ -1,13 +1,17 @@
-<{>
-<STR, "0123">
-<:>
-<NUM, +123>
-<,>
-<STR, "01234">
-<:>
-<NUM, 0123>
-<,>
-<STR, "Valid">
-<:>
-<NUM, 123.324e+10>
-<}>
+[
+ {
+
+ },
+ {
+
+
+
+
+
+    "Test for Spaced and tabbed characters": "Let's see if tokens are correct"
+    "asd" : "aaa"
+ },
+ [
+    1,2,3,4,"1","2","3", fas,
+ ]
+]

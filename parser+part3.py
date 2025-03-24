@@ -473,8 +473,8 @@ class Parser:
 
 # Main
 if __name__ == "__main__":
-	for i in range(1, 10):
-		file_name = "test_input_" + str(i) + ".txt"
+	for i in range(1, 4):
+		file_name = "test_input_parser_" + str(i) + ".txt"
 		print("Parsing file: " + file_name)
 		theParser = Parser(file_name)
 		theJSONOutput = theParser.parse()

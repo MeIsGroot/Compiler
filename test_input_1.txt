@@ -1,9 +1,12 @@
-<[>
-<NUM, 3.>
-<,>
-<NUM, .3>
-<,>
-<NUM, 3>
-<,>
-<NUM, 3.0>
-<]>
+{
+    {
+        "321 String" : 321,
+        1 : 123
+    },
+    {
+       "ant" : "good",
+       true  :   true,
+       321 : false
+       null : null
+    }
+}
